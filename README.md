@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ronan-henry" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="[https://ronanhenry2.wixsite.com/portfolio](https://ronanh.my.canva.site/book)" target="_blank"><img height="25" src = "https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://ronanh.my.canva.site/book" target="_blank"><img height="25" src = "https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://ronanhenry2.wixsite.com/portfolio" target="_blank"><img height="15" src = "https://img.shields.io/badge/Portfolio-3b5998?style=for-the-badge&logo=google-chrome&logoColor=black"></a>
 
 ----
