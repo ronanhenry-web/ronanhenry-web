@@ -1,5 +1,5 @@
 ![Banner Image](https://github.com/ronanhenry-web/ronanhenry-web/blob/main/banner.png)
-<h3 align="center">Hello everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am a young French developer 👨🏻‍💻 who is passionate about IT 🌐</h3>
+<h3 align="center">Hello everyone!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I am a French developer 👨🏻‍💻 who is passionate about IT 🌐</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/ronan-henry" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
