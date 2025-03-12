@@ -36,6 +36,7 @@
 
   
 #### Tools
+![Sonarqube](https://img.shields.io/badge/Sonar%20cloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
